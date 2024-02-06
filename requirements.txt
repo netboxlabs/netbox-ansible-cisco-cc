@@ -3,7 +3,7 @@ ansible-core==2.13.13
 certifi==2023.11.17
 cffi==1.16.0
 charset-normalizer==2.0.12
-cryptography==41.0.7
+cryptography==42.0.0
 dnacentersdk==2.6.10
 fastjsonschema==2.19.1
 future==0.18.3
